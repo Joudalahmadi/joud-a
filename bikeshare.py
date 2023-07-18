@@ -169,4 +169,7 @@ def main():
 
 if __name__ == "__main__":
     main()
-   
+   git add bikeshare.py
+git commit -m "Updated bikeshare file"
+git push origin master
+git log --oneline --graph --decorate --all
