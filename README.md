@@ -1,17 +1,17 @@
 >**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
 ### Date created
-Include the date you created this project and README file.
+18/7/2023
 
 ### Project Title
-Replace the Project Title
+post your work on github
 
 ### Description
-Describe what your project is about and what it does
+this project will be something personal which is the list of countries i wanna visit when i get older
 
 ### Files used
-Include the files used
+none
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+i used the help of udacity chatgpt to help me with this project.
 
