@@ -1,3 +1,28 @@
+# Import necessary libraries
+import pandas as pd
+import numpy as np
+
+# Load and preprocess data
+data = pd.read_csv('bikeshare.csv')
+data['Start Time'] = pd.to_datetime(data['Start Time'])
+
+# Filter data based on user input
+city = input("Enter city name: ")
+month = input("Enter month (January to June): ")
+day = input("Enter day of the week (Monday to Sunday): ")
+
+# Apply filters to the data
+filtered_data = data[(data['City'] == city) & (data['Month'] == month) & (data['Day'] == day)]
+
+# Calculate statistics
+total_trips = len(filtered_data)
+average_duration = filtered_data['Trip Duration'].mean()
+
+# Display results
+print("Total trips:", total_trips)
+print("Average trip duration:", average_duration)
+
+
 import time
 import pandas as pd
 
