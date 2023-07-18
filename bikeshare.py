@@ -1,3 +1,7 @@
+# Calculate the average trip duration
+average_duration = df['Trip Duration'].mean()
+print("Average Trip Duration:", average_duration)
+
 import time
 import pandas as pd
 
