@@ -1,17 +1,15 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+Published Date
 
-### Date created
 18/7/2023
+Files used
 
-### Project Title
-post your work on github
+Source File : bikeshare.py
+Programming Lanaguge : Python
+Dependencies
 
-### Description
-this project will be something personal which is the list of countries i wanna visit when i get older
+Python core libraries, Panads, Numpy.
+OS like Windows, Mac, Unix
+Executing program
 
-### Files used
-none
-
-### Credits
-i used the help of udacity chatgpt to help me with this project.
-
+OS should have python core and interpreter
+csv files in same bikeshare.py directory
